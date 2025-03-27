@@ -1,6 +1,9 @@
 2780. Minimum Index of a Valid Split
+      
 Solved
 Medium
+
+*explanation of solution : https://leetcode.com/problems/minimum-index-of-a-valid-split/solutions/6585233/fast-and-simple-beats-100-by-s_po_m-alv0/*
 
 An element x of an integer array arr of length m is dominant if more than half the elements of arr have a value of x.
 You are given a 0-indexed integer array nums of length n with one dominant element.
@@ -46,3 +49,5 @@ Constraints:
 1 <= nums.length <= 105
 1 <= nums[i] <= 109
 nums has exactly one dominant element.
+
+
